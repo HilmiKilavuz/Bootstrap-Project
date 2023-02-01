@@ -1,0 +1,60 @@
+
+body{
+    overflow-x: hidden; 
+}
+
+
+.resimSlider{
+    height: 600px;
+   
+}
+
+.hakkimizda{
+    background-color: #f2f2f2f2;
+}
+
+.cizgi{
+  
+    border-top: 5px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+    
+}
+
+.computer{
+    color: #343a40;
+    position: relative;
+    top: 30px;
+    font-size: 40px;
+    background-color: #f2f2f2f2;
+    border: 10px solid #f2f2f2f2;
+}
+
+.computer2{
+    color: #343a40;
+    position: relative;
+    top: 30px;
+    font-size: 40px;
+    background-color: white;
+    border: 10px solid white;
+
+}
+.ekipcard img:hover{
+    opacity: 0.6;
+    transition: 0.5s;
+}
+.ekipcard img{
+    transition: 0.3s;
+}
+
+.galeri{
+    background-color: #f2f2f2f2;
+}
+.figure:hover{
+    opacity: 0.6;
+    transition: 0.5s;
+}
+
+.figure{
+    transition: 0.3s;
+}
